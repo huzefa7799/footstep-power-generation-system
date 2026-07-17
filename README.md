@@ -83,6 +83,6 @@ Circuit behavior was validated in **Proteus Design Suite** prior to hardware ass
 This project was developed for academic purposes as part of the Second Year Engineering Project Based Learning curriculum. Add a license (e.g., MIT) if you intend the code/hardware design to be reused by others.
 
 ## Author
-**Huzefa Shaikh**
+**Huzefa Shaikh.**
 LinkedIn: www.linkedin.com/in/huzefa-shaikh-34881a290
 GitHub: https://github.com/huzefa7799
