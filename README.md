@@ -1,10 +1,10 @@
-# ⚡ Footstep Power Generation System
+# Footstep Power Generation System
 
 The system converts mechanical energy from human footsteps into usable electrical energy using piezoelectric transducers, and displays the harvested voltage in real time on an LCD via an Arduino Uno.
 
 ---
 
-## 📖 Overview
+## Overview
 
 Public spaces such as railway stations, bus stands, shopping malls, and school corridors see constant foot traffic — an abundant, untapped source of mechanical energy. This project harvests that energy using piezoelectric discs, converts it to a stable DC voltage, and displays it live, demonstrating a low-cost, scalable approach to decentralized, eco-friendly power generation.
 
@@ -15,7 +15,7 @@ Public spaces such as railway stations, bus stands, shopping malls, and school c
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 ```
 Piezoelectric Transducers → AC-to-DC Conversion Circuit → Charging/Discharging Mechanism → Arduino Uno → LCD Display
@@ -31,7 +31,7 @@ Piezoelectric Transducers → AC-to-DC Conversion Circuit → Charging/Dischargi
 
 ---
 
-## 🔩 Components Used
+## Components Used
 
 | Component | Purpose |
 |---|---|
@@ -46,13 +46,13 @@ Piezoelectric Transducers → AC-to-DC Conversion Circuit → Charging/Dischargi
 
 ---
 
-## 🧪 Simulation
+## Simulation
 
 Circuit behavior was validated in **Proteus Design Suite** prior to hardware assembly. Since Proteus lacks a native piezoelectric disc model, an AC voltage source was substituted to emulate footstep-induced stress. The simulation confirmed correct operation of the rectification, filtering, voltage-division, and Arduino/LCD display stages under varying simulated pressure.
 
 ---
 
-## ✅ Advantages
+## Advantages
 
 - Environmentally friendly, renewable energy source
 - Low maintenance (few moving parts)
@@ -61,7 +61,7 @@ Circuit behavior was validated in **Proteus Design Suite** prior to hardware ass
 - Silent operation
 - Modular — units can be scaled up in series/parallel
 
-## ⚠️ Limitations
+## Limitations
 
 - Low energy output per footstep *(mitigated via sensor arrays + supercapacitor/battery storage)*
 - Output varies with force applied *(mitigated via spring-loaded distribution plates)*
@@ -69,7 +69,7 @@ Circuit behavior was validated in **Proteus Design Suite** prior to hardware ass
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 - Add energy storage (supercapacitors/batteries) for offline use
 - Wireless data logging and smart-grid integration
@@ -78,11 +78,12 @@ Circuit behavior was validated in **Proteus Design Suite** prior to hardware ass
 
 ---
 
-## 📄 License
+## License
 
 This project was developed for academic purposes as part of the Second Year Engineering Project Based Learning curriculum. Add a license (e.g., MIT) if you intend the code/hardware design to be reused by others.
 
 ## Author
 **Huzefa Shaikh.**
+
 LinkedIn: www.linkedin.com/in/huzefa-shaikh-34881a290
 GitHub: https://github.com/huzefa7799
