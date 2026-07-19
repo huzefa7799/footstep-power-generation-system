@@ -89,6 +89,6 @@ This project was developed for academic purposes as part of the Second Year Engi
 
 Email: huzefashaikh385@gmail.com
 
-LinkedIn: www.linkedin.com/in/huzefa-shaikh-34881a290
+LinkedIn: https://www.linkedin.com/in/huzefa-shaikh-34881a290
 
 GitHub: https://github.com/huzefa7799
