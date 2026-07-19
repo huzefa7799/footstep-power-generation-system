@@ -80,7 +80,7 @@ Circuit behavior was validated in **Proteus Design Suite** prior to hardware ass
 
 ## Implementation
 
-![Hardware Setup](implementation/implemenation.jpg)
+(implementation/implemenation.jpg)
 
 ## License
 
