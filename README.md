@@ -82,6 +82,8 @@ Circuit behavior was validated in **Proteus Design Suite** prior to hardware ass
 
 This project was developed for academic purposes as part of the Second Year Engineering Project Based Learning curriculum. Add a license (e.g., MIT) if you intend the code/hardware design to be reused by others.
 
+---
+
 ## Author
 **Huzefa Shaikh**
 
