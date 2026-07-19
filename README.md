@@ -27,7 +27,7 @@ Piezoelectric Transducers → AC-to-DC Conversion Circuit → Charging/Dischargi
 4. **Voltage Divider (50kΩ + 10kΩ resistors)** — Scales the voltage down to a safe 0–5V range for the Arduino's analog input.
 5. **Arduino Uno** — Reads the scaled analog voltage via its ADC and computes the actual voltage.
 6. **16x2 I2C LCD** — Displays the real-time voltage output.
-7. **BC547 NPN Transistor** — Included for optional switching/amplification (e.g., driving an indicator LED).
+7. **BC547 NPN Transistor** — Included for optional switching (e.g., driving an indicator LED).
 
 ---
 
